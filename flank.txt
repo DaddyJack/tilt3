@@ -1,0 +1,12 @@
+
+Judgment
+
+Please do not touch the screen or adjust it in any way.
+
+In this experiment we are studying the impact of the background on height judgments.  You will be presented with two dots in the center of the screen.  You will be able to adjust the height of the right dot by using the up and down arrow keys.  When the dots appear to be the same height, press the enter key.  The two dots should appear to be horizontal to the ground.  After you press the enter key, you will then see a new display and make another judgment.
+
+For each display remain a comfortable distance from the computer (a distance that would be normal for typing), and keep you head level.  Do not try to compensate for what you think might be the effect of the background, but adjust the right dot until it appears to be the same height as the left dot.  
+
+After you have made all of the judgments the computer will save the data and return to the menu.
+
+

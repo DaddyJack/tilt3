@@ -1,0 +1,13 @@
+To Do List for step
+
+1.	Get rid of cursor.  Done.
+
+2.	fix size of grids.  get info from globals
+
+3. 	write file at end.
+
+4.	pause between trials.
+
+5.	make instructions.
+
+6.	design practice trials.

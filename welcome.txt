@@ -1,0 +1,9 @@
+Welcome to the Illusion Experiment.
+
+In the next screeen you will enter the name of the experimenter and in the following screen you will enter the name of the participant.  Avoid special characters or punctuation.  
+
+After you have entered the participant's name, instructions for the experiment will be dispalyed on the screen.
+
+Thank you for your participation.
+
+To begin click OK.
